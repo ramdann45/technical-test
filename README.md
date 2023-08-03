@@ -5,7 +5,7 @@
         yaitu HomeController.</p>
     <hr>
 
-    <h3>Frontend Challenge</h3>
+<h3>Frontend Challenge</h3>
     <ul>
         <li>Clone repository test</li>
         <li>Di halaman utama buat / custom frontend semenarik mungkin dengan aturan penataan komponen yang telah
